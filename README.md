@@ -1,0 +1,1 @@
+# Peanut MAGIC population imputation
